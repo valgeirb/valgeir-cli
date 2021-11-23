@@ -1,0 +1,32 @@
+{
+  "name": "valgeir",
+  "version": "0.1.0",
+  "description": "Hello, I'm Valgeir.",
+  "main": "index.js",
+  "bin": {
+    "valgeir": "index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/valgeirb/valgeir-cli.git"
+  },
+  "keywords": [
+    "valgeir",
+    "bjornsson",
+    "valgeir bjornsson"
+  ],
+  "author": "Valgeir Bjornsson",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/valgeirb/valgeir-cli/issues"
+  },
+  "homepage": "https://github.com/valgeirb/valgeir-cli#readme",
+  "dependencies": {
+    "chalk": "^4.1.2",
+    "cli-alerts": "^1.2.2",
+    "cli-welcome": "^2.2.2"
+  }
+}
