@@ -20,7 +20,7 @@ welcome({
 
 console.log(`${bold(`Hello, I’m Valgeir.`)}
 
-I’m a front-end developer at Next Generation Lotteries.
+I’m a front-end developer at Syndis.
 I like designing UIs and building things.
 
 Feel free to reach out!
